@@ -21,7 +21,7 @@ This repository starts with simple echo servers and will expand gradually into m
 
 ## 🚀 Direction of Growth
 This repo is a **progressive notebook of learning**.  
-Future additions may include more advanced concurrency models, chat servers, or protocol-based projects — added step by step as I grow.  
+Future additions may include more advanced concurrency models, chat servers, or protocol-based projects: added step by step as I grow.  
 The exact roadmap is intentionally open-ended.
 
 ---
