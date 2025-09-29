@@ -1,5 +1,4 @@
-# Java Sockets — From Zero to Pro
-
+# Java Sockets 
 A hands-on journey into **Java socket programming and concurrency**.  
 This repository starts with simple echo servers and will expand gradually into more advanced projects as I continue learning.
 
