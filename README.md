@@ -7,12 +7,12 @@ This repository starts with simple echo servers and will expand gradually into m
 
 ## ✅ Current Milestones
 
-### 01 — Single-Thread Echo
+### 01  Single-Thread Echo
 - Server handles **one client at a time** using blocking I/O.
 - Client sends a message → server echoes it back.
 - Shows the fundamentals: sockets, streams, and resource cleanup.
 
-### 02 — Multi-Thread Echo
+### 02  Multi-Thread Echo
 - Server handles **multiple clients concurrently** using a fixed thread pool.
 - Each client runs in its own worker thread.
 - Shows concurrency basics, thread-pool usage, and graceful shutdown.
